@@ -33,8 +33,11 @@ Implementing PostgreSQL functions to perform complex data manipulations and calc
 Insights:
 
 Popularity Trends: Insights into how the popularity of specific names has changed over time.
+
 Regional Differences: Understanding of regional variations in naming conventions.
+
 Cultural Impact: Analysis of cultural events or trends that may influence naming conventions.
+
 Predictive Analysis: Potential to predict future naming trends based on historical data.
 
 Results:
@@ -42,5 +45,7 @@ Results:
 The project provides a comprehensive analysis of American baby name trends, offering valuable insights for various stakeholders:
 
 Researchers: Understand sociocultural dynamics reflected in naming trends.
+
 Marketers: Identify trends for targeted marketing strategies.
+
 Social Scientists: Study the implications of naming conventions on identity and society.
